@@ -59,6 +59,4 @@ https://capireiq.appwrite.network/
 ## Demo Video/Photos  
 _Share a 2-3 minute demo video of your project_
 
-<!--
-https://www.youtube.com/watch?v=9IBaX1avYWc
--->
+https://www.loom.com/share/3bd7579296524e60a75460ac881f00f9
